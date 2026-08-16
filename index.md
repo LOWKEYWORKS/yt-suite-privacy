@@ -64,4 +64,6 @@ Any updated version will be published at this same URL.
 
 ## Contact
 
-For privacy-related questions regarding YT Suite, users may contact the developer through the support options provided on the Chrome Web Store listing.
+For privacy-related questions regarding YT Suite, users may contact the developer at:
+
+bylowkeyworks@gmail.com
